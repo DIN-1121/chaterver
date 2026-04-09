@@ -7,9 +7,9 @@
 
 #./active.sh
 
-#./ChatServer 127.0.0.1 8889/8888 开启服务器
+#./ChatServer 127.0.0.1 port 开启服务器 此port为nginx 设置服务器端口
 
-#./ChatClient 127.0.0.1 8000 开启客户端
+#./ChatClient 127.0.0.1 port 开启客户端 此port为nginx stream监听port
 
 #该项目需要配置环境如下：
 
