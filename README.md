@@ -1,4 +1,4 @@
-# chaterver
+# chatserver
 基于muduo使用redis发布-订阅在Ubuntu下用nginx tcp负载均衡实现集群聊天服务器和客户端
 
 #编译运行
